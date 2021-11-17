@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "dig": "^0.0.6",
+    "discord-image-generation": "^1.4.9",
+    "discord.js": "^13.2.0",
+    "moment-timezone": "^0.5.33",
+    "npm": "^8.0.0",
+    "path": "^0.12.7",
+    "wokcommands": "^1.5.3"
+  }
+}

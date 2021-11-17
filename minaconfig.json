@@ -1,0 +1,10 @@
+{
+    "PREFIX" : "m!",
+    "token" : "NzY4Mzk4NDc3NjU3ODk5MDY5.X4_42Q.6JiyP_p596gkje41k6mO9zbyLiE",
+    "bot_age" : 1,
+    "mongoPath": "mongodb://localhost:27017/minabot",
+    "bot_info" : {
+        "name" : "Minabot",
+        "version" : "0.06"
+    }
+}
